@@ -1,6 +1,6 @@
 # 🛡️ Network Security Codes
 
-Welcome to the **Network Security** repository! This is your one-stop destination for exploring and implementing various cryptographic algorithms and security protocols. Whether you're a student, researcher, or security enthusiast, this repository is designed to help you understand and experiment with fundamental concepts in network security.
+Welcome to the **Network Security** repository! This is your one-stop destination for exploring and implementing various cryptographic algorithms and security protocols. This repository is designed to help you understand and experiment with fundamental concepts in network security.
 
 ---
 
