@@ -24,23 +24,15 @@ The Hill Cipher is a polygraphic substitution cipher based on linear algebra. It
 
 ## Steps to Run the Program
 
-1. **Install Required Libraries**: 
-   - Ensure you have Python and NumPy installed on your system.
-
-2. **Input Plaintext**: 
-   - Run the program and input the plaintext you wish to encrypt.
-
-3. **Input Key Matrix**: 
-   - Specify the size of the key matrix (e.g., 2 for a 2x2 matrix) and enter the key matrix values row by row.
-
-4. **Encryption**: 
-   - The program will output the ciphertext.
-
-5. **Decryption**: 
-   - The program will also decrypt the ciphertext back to the original plaintext and display it.
+1. Run the program.
+2. Enter the plaintext you wish to encrypt.
+3. Specify the size of the key matrix and enter the key matrix values row by row.
+4. The program will display the Ciphertext and then the decrypted message.
 
 ## Output:
 Here are sample outputs for the Hill-Cipher code:
+- ![image](https://github.com/user-attachments/assets/a7816717-e341-4c5e-af9e-8956635e069f)
+- ![image](https://github.com/user-attachments/assets/a7456340-7e37-4514-ad0b-f45a4ed0daa1)
 
 ## References
 
