@@ -9,6 +9,7 @@ This Python program implements a monoalphabetic cipher, which is a type of subst
 3. The script will display the encrypted message and then the decrypted message.
 ## Output
 Here's a sample output
-![image](https://github.com/user-attachments/assets/af941697-b82c-4a69-be6f-698f2f99f4ef)
+- ![image](https://github.com/user-attachments/assets/e8a55d00-104a-4e64-93c9-338450724876)
+
 ## References
 [Monoalphabetic Cipher](https://www.geeksforgeeks.org/what-is-monoalphabetic-cipher/)
