@@ -16,7 +16,8 @@ Decryption: Converts ciphertext back into plaintext using the same key.
    
 ## Output:
 Here's a sample output 
-![image](https://github.com/user-attachments/assets/be855701-75a2-405c-997c-3b94ce4e99d5)
+- ![image](https://github.com/user-attachments/assets/7f742b65-6cef-4ad1-bce0-9aa44650914c)
+
 
 ## References
 [Caesar cipher Geeksforgeeks](https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/)
