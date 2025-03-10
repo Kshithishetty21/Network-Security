@@ -1,10 +1,10 @@
 # RSA Encryption Algorithm
 
-## 1. Introduction
+## Introduction
 
 RSA (Rivest-Shamir-Adleman) is a widely used public-key cryptographic system that enables secure data transmission. It is based on the mathematical properties of prime numbers and modular arithmetic. RSA is used for secure data transmission, digital signatures, and key exchange. The security of RSA relies on the difficulty of factoring the product of two large prime numbers.
 
-## 2. Working of RSA
+## Working of RSA
 
 The RSA algorithm consists of the following steps:
 
